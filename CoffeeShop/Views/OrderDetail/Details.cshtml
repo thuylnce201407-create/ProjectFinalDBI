@@ -1,0 +1,58 @@
+﻿@model CoffeeShop.Models.OrderDetail
+
+@{
+    ViewData["Title"] = "Detail";
+}
+
+<h2>Order Detail</h2>
+
+<table class="table table-bordered">
+
+    <tr>
+
+        <th>ID</th>
+
+        <td>@Model.OrderDetailID</td>
+
+    </tr>
+
+    <tr>
+
+        <th>Order</th>
+
+        <td>@Model.OrderID</td>
+
+    </tr>
+
+    <tr>
+
+        <th>Menu</th>
+
+        <td>@Model.Menu?.MenuName</td>
+
+    </tr>
+
+    <tr>
+
+        <th>Quantity</th>
+
+        <td>@Model.Quantity</td>
+
+    </tr>
+
+</table>
+
+<a asp-action="Edit"
+   asp-route-id="@Model.OrderDetailID"
+   class="btn btn-warning">
+
+    Edit
+
+</a>
+
+<a asp-action="Index"
+   class="btn btn-secondary">
+
+    Back
+
+</a>

@@ -1,0 +1,50 @@
+﻿@model CoffeeShop.Models.Customer
+
+<div class="container mt-4">
+
+    <h2>Edit Customer</h2>
+
+    <form asp-action="Edit">
+
+        <input asp-for="CustomerID" type="hidden" />
+
+        <div class="mb-3">
+
+            <label>Full Name</label>
+
+            <input asp-for="CustomerName" class="form-control" />
+
+        </div>
+
+        <div class="mb-3">
+
+            <label>Phone</label>
+
+            <input asp-for="Phone" class="form-control" />
+
+        </div>
+
+        <div class="mb-3">
+
+            <label>Email</label>
+
+            <input asp-for="Email" class="form-control" />
+
+        </div>
+
+        <button class="btn btn-warning">
+
+            Update
+
+        </button>
+
+        <a asp-action="Index"
+           class="btn btn-secondary">
+
+            Back
+
+        </a>
+
+    </form>
+
+</div>

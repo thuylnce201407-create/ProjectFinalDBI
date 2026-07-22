@@ -1,0 +1,149 @@
+﻿@model List<CoffeeShop.Models.CartItem>
+
+@{
+    ViewData["Title"] = "Shopping Cart";
+}
+
+<div class="container mt-5">
+
+    <h2 class="mb-4">
+        🛒 Shopping Cart
+    </h2>
+
+    @if (!Model.Any())
+    {
+        <div class="alert alert-warning">
+
+            Cart is Empty.
+
+        </div>
+
+        <a asp-controller="Home"
+           asp-action="Index"
+           class="btn btn-dark">
+
+            Continue Shopping
+
+        </a>
+    }
+    else
+    {
+        <table class="table table-bordered table-hover">
+
+            <thead class="table-dark">
+
+                <tr>
+
+                    <th>Image</th>
+
+                    <th>Name</th>
+
+                    <th>Price</th>
+
+                    <th width="180">Quantity</th>
+
+                    <th>Total</th>
+
+                    <th></th>
+
+                </tr>
+
+            </thead>
+
+            <tbody>
+
+                @foreach (var item in Model)
+                {
+                    <tr>
+
+                        <td width="120">
+
+                            <img src="@item.ImageUrl"
+                                 width="80" />
+
+                        </td>
+
+                        <td>
+
+                            @item.MenuName
+
+                        </td>
+
+                        <td>
+
+                            @item.Price.ToString("N0") đ
+
+                        </td>
+
+                        <td>
+
+                            <a asp-action="Decrease"
+                               asp-route-id="@item.MenuID"
+                               class="btn btn-danger btn-sm">
+
+                                -
+
+                            </a>
+
+                            <span class="mx-3">
+
+                                @item.Quantity
+
+                            </span>
+
+                            <a asp-action="Increase"
+                               asp-route-id="@item.MenuID"
+                               class="btn btn-success btn-sm">
+
+                                +
+
+                            </a>
+
+                        </td>
+
+                        <td>
+
+                            @item.Total.ToString("N0") đ
+
+                        </td>
+
+                        <td>
+
+                            <a asp-action="Remove"
+                               asp-route-id="@item.MenuID"
+                               class="btn btn-outline-danger">
+
+                                Remove
+
+                            </a>
+
+                        </td>
+
+                    </tr>
+                }
+
+            </tbody>
+
+        </table>
+
+        <h3 class="text-end text-danger">
+
+            Total :
+            @Model.Sum(x => x.Total).ToString("N0") đ
+
+        </h3>
+
+        <div class="text-end mt-3">
+
+            <a asp-action="Checkout"
+               class="btn btn-success btn-lg">
+
+                Checkout
+
+            </a>
+
+        </div>
+
+    }
+
+</div>

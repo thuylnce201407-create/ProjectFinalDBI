@@ -1,0 +1,44 @@
+﻿@model List<CoffeeShop.Models.Category>
+
+@{
+    ViewData["Title"] = "Category List";
+}
+
+<div class="container mt-5">
+
+    <h2 class="mb-4 text-center">
+        ☕ Coffee Categories
+    </h2>
+
+    <div class="list-group">
+
+        @foreach (var item in Model)
+        {
+            <div class="list-group-item d-flex justify-content-between align-items-center">
+
+                <span>
+                    @item.CategoryName
+                </span>
+
+                <span class="badge bg-dark">
+                    ID: @item.CategoryID
+                </span>
+
+            </div>
+        }
+
+    </div>
+
+    <div class="mt-4 text-center">
+
+        <a asp-controller="Home"
+           asp-action="Index"
+           class="btn btn-primary">
+
+            ← Back To Home
+
+        </a>
+
+    </div>
+
+</div>

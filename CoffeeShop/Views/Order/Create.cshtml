@@ -1,0 +1,62 @@
+﻿@model CoffeeShop.Models.Order
+
+@{
+    ViewData["Title"] = "Create Order";
+}
+
+<div class="container mt-4">
+
+    <h2>Create Order</h2>
+
+    <form asp-action="Create">
+
+        <div class="mb-3">
+
+            <label>Order Date</label>
+
+            <input asp-for="OrderDate"
+                   type="date"
+                   class="form-control" />
+
+        </div>
+
+        <div class="mb-3">
+
+            <label>Customer</label>
+
+            <select asp-for="CustomerID"
+                    asp-items="ViewBag.Customers"
+                    class="form-select">
+            </select>
+
+        </div>
+
+        <div class="mb-3">
+
+            <label>Employee</label>
+
+            <select asp-for="EmployeeID"
+                    asp-items="ViewBag.Employees"
+                    class="form-select">
+            </select>
+
+        </div>
+
+        
+
+        <button class="btn btn-success">
+
+            Save
+
+        </button>
+
+        <a asp-action="Index"
+           class="btn btn-secondary">
+
+            Back
+
+        </a>
+
+    </form>
+
+</div>

@@ -1,0 +1,107 @@
+﻿@model List<CoffeeShop.Models.Order>
+
+@{
+    ViewData["Title"] = "Order";
+}
+
+<div class="container mt-4">
+
+    <h2 class="mb-4">Order Management</h2>
+
+    <form asp-action="Index" method="get" class="mb-3">
+
+        <div class="input-group">
+
+            <input type="text"
+                   name="keyword"
+                   class="form-control"
+                   placeholder="Search order..."
+                   value="@ViewBag.Keyword" />
+
+            <button class="btn btn-dark">
+
+                Search
+
+            </button>
+
+        </div>
+
+    </form>
+
+    <a asp-action="Create"
+       class="btn btn-success mb-3">
+
+        Create Order
+
+    </a>
+
+    <table class="table table-bordered table-hover">
+
+        <thead class="table-dark">
+
+            <tr>
+
+                <th>ID</th>
+
+                <th>Date</th>
+
+                <th>Customer</th>
+
+                <th>Employee</th>
+
+                <th>Total</th>
+
+                <th width="180">Action</th>
+
+            </tr>
+
+        </thead>
+
+        <tbody>
+
+            @foreach (var item in Model)
+            {
+                <tr>
+
+                    <td>@item.OrderID</td>
+
+                    <td>@item.OrderDate.ToString("dd/MM/yyyy")</td>
+
+                    <td>@item.Customer?.CustomerName</td>
+
+                    <td>@item.Employee?.FullName</td>
+
+                    <td>@item.TotalPrice.ToString("N0") đ</td>
+
+                    <td>
+
+                        <a asp-action="Details"
+                           asp-route-id="@item.OrderID"
+                           class="btn btn-info btn-sm">
+
+                            Detail
+
+                        </a>
+
+                        <a asp-action="Edit"
+                           asp-route-id="@item.OrderID"
+                           class="btn btn-warning btn-sm">
+                            Edit
+                        </a>
+
+                        <a asp-action="Delete"
+                           asp-route-id="@item.OrderID"
+                           class="btn btn-danger btn-sm">
+                            Delete
+                        </a>
+
+                    </td>
+
+                </tr>
+            }
+
+        </tbody>
+
+    </table>
+
+</div>

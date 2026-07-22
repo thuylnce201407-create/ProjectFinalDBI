@@ -1,0 +1,101 @@
+﻿@model List<CoffeeShop.Models.Order>
+
+@{
+    ViewData["Title"] = "My Orders";
+}
+
+<h2 class="mb-4">📋 My Orders</h2>
+
+@if (!Model.Any())
+{
+    <div class="alert alert-warning">
+        No orders found.
+    </div>
+}
+else
+{
+    @foreach (var order in Model)
+    {
+        <div class="card mb-4 shadow">
+
+            <div class="card-header bg-dark text-white">
+
+                <strong>Order #@order.OrderID</strong>
+
+                <span class="float-end">
+                    @order.OrderDate.ToString("dd/MM/yyyy HH:mm")
+                </span>
+
+            </div>
+
+            <div class="card-body">
+
+                <p>
+                    Customer :
+                    @order.Customer?.CustomerName
+                </p>
+
+                <p>
+                    Employee :
+                    @order.Employee?.FullName
+                </p>
+
+                <table class="table">
+
+                    <thead>
+
+                        <tr>
+
+                            <th>Menu</th>
+
+                            <th>Price</th>
+
+                            <th>Qty</th>
+
+                            <th>Total</th>
+
+                        </tr>
+
+                    </thead>
+
+                    <tbody>
+
+                        @foreach (var item in order.OrderDetails)
+                        {
+                            <tr>
+
+                                <td>
+                                    @item.Menu?.MenuName
+                                </td>
+
+                                <td>
+                                    @item.Menu?.Price.ToString("N0") đ
+                                </td>
+
+                                <td>
+                                    @item.Quantity
+                                </td>
+
+                                <td>
+                                    @((item.Menu?.Price ?? 0) * item.Quantity)
+                                </td>
+
+                            </tr>
+                        }
+
+                    </tbody>
+
+                </table>
+
+                <h5 class="text-end text-danger">
+
+                    Total :
+                    @order.TotalPrice.ToString("N0") đ
+
+                </h5>
+
+            </div>
+
+        </div>
+    }
+}

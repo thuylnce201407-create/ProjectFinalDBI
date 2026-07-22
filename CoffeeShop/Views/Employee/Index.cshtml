@@ -1,0 +1,103 @@
+﻿@model List<CoffeeShop.Models.Employee>
+
+@{
+    ViewData["Title"] = "Employee";
+}
+
+<div class="container mt-4">
+
+    <h2 class="mb-4">Employee Management</h2>
+
+    <form asp-action="Index" method="get" class="mb-3">
+
+        <div class="input-group">
+
+            <input type="text"
+                   name="keyword"
+                   class="form-control"
+                   placeholder="Search employee..."
+                   value="@ViewBag.Keyword" />
+
+            <button class="btn btn-dark">
+
+                Search
+
+            </button>
+
+        </div>
+
+    </form>
+
+    <a asp-action="Create"
+       class="btn btn-success mb-3">
+
+        Add Employee
+
+    </a>
+
+    <table class="table table-bordered table-hover">
+
+        <thead class="table-dark">
+
+            <tr>
+
+                <th>ID</th>
+
+                <th>Full Name</th>
+
+                <th>Phone</th>
+
+                <th>Position</th>
+
+                <th>Salary</th>
+
+                <th width="180">Action</th>
+
+            </tr>
+
+        </thead>
+
+        <tbody>
+
+            @foreach (var item in Model)
+            {
+                <tr>
+
+                    <td>@item.EmployeeID</td>
+
+                    <td>@item.FullName</td>
+
+                    <td>@item.Phone</td>
+
+                    <td>@item.Position</td>
+
+                    <td>@item.Salary.ToString("N0")</td>
+
+                    <td>
+
+                        <a asp-action="Edit"
+                           asp-route-id="@item.EmployeeID"
+                           class="btn btn-warning btn-sm">
+
+                            Edit
+
+                        </a>
+
+                        <a asp-action="Delete"
+                           asp-route-id="@item.EmployeeID"
+                           class="btn btn-danger btn-sm">
+
+                            Delete
+
+                        </a>
+
+                    </td>
+
+                </tr>
+            }
+
+        </tbody>
+
+    </table>
+
+</div>

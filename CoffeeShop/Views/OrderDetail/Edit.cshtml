@@ -1,0 +1,54 @@
+﻿@model CoffeeShop.Models.OrderDetail
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h2>Edit Order Detail</h2>
+
+<form asp-action="Edit">
+
+    <input asp-for="OrderDetailID"
+           type="hidden" />
+
+    <div class="mb-3">
+
+        <label>Order</label>
+
+        <select asp-for="OrderID"
+                asp-items="ViewBag.Orders"
+                class="form-select">
+        </select>
+
+    </div>
+
+    <div class="mb-3">
+
+        <label>Menu</label>
+
+        <select asp-for="MenuID"
+                asp-items="ViewBag.Menus"
+                class="form-select">
+        </select>
+
+    </div>
+
+    <div class="mb-3">
+
+        <label>Quantity</label>
+
+        <input asp-for="Quantity"
+               class="form-control" />
+
+    </div>
+
+    <button class="btn btn-warning">
+        Update
+    </button>
+
+    <a asp-action="Index"
+       class="btn btn-secondary">
+        Back
+    </a>
+
+</form>

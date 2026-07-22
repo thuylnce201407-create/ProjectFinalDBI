@@ -1,0 +1,869 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|c:\\users\\dell\\source\\repos\\coffeeshop\\coffeeshop\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|c:\\users\\dell\\source\\repos\\coffeeshop\\coffeeshop\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|c:\\users\\dell\\source\\repos\\coffeeshop\\coffeeshop\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|c:\\users\\dell\\source\\repos\\coffeeshop\\coffeeshop\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|c:\\users\\dell\\source\\repos\\coffeeshop\\coffeeshop\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|c:\\users\\dell\\source\\repos\\coffeeshop\\coffeeshop\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|c:\\users\\dell\\source\\repos\\coffeeshop\\coffeeshop\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|c:\\users\\dell\\source\\repos\\coffeeshop\\coffeeshop\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|c:\\users\\dell\\source\\repos\\coffeeshop\\coffeeshop\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|c:\\users\\dell\\source\\repos\\coffeeshop\\coffeeshop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|c:\\users\\dell\\source\\repos\\coffeeshop\\coffeeshop\\views\\menu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\views\\menu\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|c:\\users\\dell\\source\\repos\\coffeeshop\\coffeeshop\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\controllers\\menucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|c:\\users\\dell\\source\\repos\\coffeeshop\\coffeeshop\\views\\menu\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\views\\menu\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|c:\\users\\dell\\source\\repos\\coffeeshop\\coffeeshop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|c:\\users\\dell\\source\\repos\\coffeeshop\\coffeeshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|c:\\users\\dell\\source\\repos\\coffeeshop\\coffeeshop\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|c:\\users\\dell\\source\\repos\\coffeeshop\\coffeeshop\\views\\orderdetail\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\views\\orderdetail\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|c:\\users\\dell\\source\\repos\\coffeeshop\\coffeeshop\\coffeeshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\coffeeshop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|c:\\users\\dell\\source\\repos\\coffeeshop\\coffeeshop\\views\\orderdetail\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\views\\orderdetail\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|c:\\users\\dell\\source\\repos\\coffeeshop\\coffeeshop\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|c:\\users\\dell\\source\\repos\\coffeeshop\\coffeeshop\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|c:\\users\\dell\\source\\repos\\coffeeshop\\coffeeshop\\views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\views\\customer\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|c:\\users\\dell\\source\\repos\\coffeeshop\\coffeeshop\\controllers\\orderdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\controllers\\orderdetailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|c:\\users\\dell\\source\\repos\\coffeeshop\\coffeeshop\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|c:\\users\\dell\\source\\repos\\coffeeshop\\coffeeshop\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|c:\\users\\dell\\source\\repos\\coffeeshop\\coffeeshop\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|c:\\users\\dell\\source\\repos\\coffeeshop\\coffeeshop\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\views\\order\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|c:\\users\\dell\\source\\repos\\coffeeshop\\coffeeshop\\views\\order\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\views\\order\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|c:\\users\\dell\\source\\repos\\coffeeshop\\coffeeshop\\data\\coffeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\data\\coffeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|c:\\users\\dell\\source\\repos\\coffeeshop\\coffeeshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|c:\\users\\dell\\source\\repos\\coffeeshop\\coffeeshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|c:\\users\\dell\\source\\repos\\coffeeshop\\coffeeshop\\models\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\models\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|c:\\users\\dell\\source\\repos\\coffeeshop\\coffeeshop\\views\\order\\myorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\views\\order\\myorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|c:\\users\\dell\\source\\repos\\coffeeshop\\coffeeshop\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|c:\\users\\dell\\source\\repos\\coffeeshop\\coffeeshop\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|c:\\users\\dell\\source\\repos\\coffeeshop\\coffeeshop\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|c:\\users\\dell\\source\\repos\\coffeeshop\\coffeeshop\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|c:\\users\\dell\\source\\repos\\coffeeshop\\coffeeshop\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|c:\\users\\dell\\source\\repos\\coffeeshop\\coffeeshop\\views\\home\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\views\\home\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|c:\\users\\dell\\source\\repos\\coffeeshop\\coffeeshop\\extensions\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\extensions\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|c:\\users\\dell\\source\\repos\\coffeeshop\\coffeeshop\\views\\order\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\views\\order\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|c:\\users\\dell\\source\\repos\\coffeeshop\\coffeeshop\\views\\order\\invoice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\views\\order\\invoice.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|c:\\users\\dell\\source\\repos\\coffeeshop\\coffeeshop\\views\\orderdetail\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\views\\orderdetail\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|c:\\users\\dell\\source\\repos\\coffeeshop\\coffeeshop\\views\\orderdetail\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\views\\orderdetail\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|c:\\users\\dell\\source\\repos\\coffeeshop\\coffeeshop\\views\\orderdetail\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\views\\orderdetail\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|c:\\users\\dell\\source\\repos\\coffeeshop\\coffeeshop\\views\\order\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\views\\order\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|c:\\users\\dell\\source\\repos\\coffeeshop\\coffeeshop\\views\\customer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\views\\customer\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|c:\\users\\dell\\source\\repos\\coffeeshop\\coffeeshop\\views\\customer\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\views\\customer\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|c:\\users\\dell\\source\\repos\\coffeeshop\\coffeeshop\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\views\\employee\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|c:\\users\\dell\\source\\repos\\coffeeshop\\coffeeshop\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|c:\\users\\dell\\source\\repos\\coffeeshop\\coffeeshop\\views\\menu\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\views\\menu\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|c:\\users\\dell\\source\\repos\\coffeeshop\\coffeeshop\\views\\menu\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\views\\menu\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|c:\\users\\dell\\source\\repos\\coffeeshop\\coffeeshop\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF8F0C8B-7514-1E12-8CE6-EF5808A843A8}|CoffeeShop\\CoffeeShop.csproj|solutionrelative:coffeeshop\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Views\\Customer\\Index.cshtml",
+              "RelativeDocumentMoniker": "CoffeeShop\\Views\\Customer\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Views\\Customer\\Index.cshtml",
+              "RelativeToolTip": "CoffeeShop\\Views\\Customer\\Index.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-19T08:18:23.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "CoffeeShop\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "CoffeeShop\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAUwCoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T08:56:06.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Views\\Order\\Index.cshtml",
+              "RelativeDocumentMoniker": "CoffeeShop\\Views\\Order\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Views\\Order\\Index.cshtml",
+              "RelativeToolTip": "CoffeeShop\\Views\\Order\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-19T08:58:15.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "CoffeeShop\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "CoffeeShop\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T08:17:24.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "CoffeeShop\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "CoffeeShop\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-19T08:12:09.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "CoffeeShop\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "CoffeeShop\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T08:08:00.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "CoffeeShop\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Models\\Employee.cs",
+              "RelativeToolTip": "CoffeeShop\\Models\\Employee.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T08:06:02.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "CoffeeShop\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "CoffeeShop\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAAsAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-19T08:12:33.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Views\\Menu\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CoffeeShop\\Views\\Menu\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Views\\Menu\\Edit.cshtml",
+              "RelativeToolTip": "CoffeeShop\\Views\\Menu\\Edit.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-18T20:34:27.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MenuController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Controllers\\MenuController.cs",
+              "RelativeDocumentMoniker": "CoffeeShop\\Controllers\\MenuController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Controllers\\MenuController.cs",
+              "RelativeToolTip": "CoffeeShop\\Controllers\\MenuController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T19:56:13.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CoffeeShop\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CoffeeShop\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwB8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-10T18:41:01.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "CoffeeShop\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "CoffeeShop\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAYwAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-07-19T18:36:03.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CoffeeShop\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CoffeeShop\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwBIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T18:38:59.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "CoffeeShop\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "CoffeeShop\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAcwFQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T09:58:06.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Views\\Menu\\Index.cshtml",
+              "RelativeDocumentMoniker": "CoffeeShop\\Views\\Menu\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Views\\Menu\\Index.cshtml",
+              "RelativeToolTip": "CoffeeShop\\Views\\Menu\\Index.cshtml",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAiwFoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-18T19:57:58.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Views\\OrderDetail\\Index.cshtml",
+              "RelativeDocumentMoniker": "CoffeeShop\\Views\\OrderDetail\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Views\\OrderDetail\\Index.cshtml",
+              "RelativeToolTip": "CoffeeShop\\Views\\OrderDetail\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-19T09:18:57.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CoffeeShop\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CoffeeShop\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAiwIgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-10T18:44:40.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "CoffeeShop\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Controllers\\CartController.cs",
+              "RelativeToolTip": "CoffeeShop\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAwwLsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T09:40:42.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "CoffeeShop\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Models\\Order.cs",
+              "RelativeToolTip": "CoffeeShop\\Models\\Order.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T08:55:19.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Views\\Customer\\Create.cshtml",
+              "RelativeDocumentMoniker": "CoffeeShop\\Views\\Customer\\Create.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Views\\Customer\\Create.cshtml",
+              "RelativeToolTip": "CoffeeShop\\Views\\Customer\\Create.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-19T08:18:44.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CoffeeShop.csproj",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\CoffeeShop.csproj",
+              "RelativeDocumentMoniker": "CoffeeShop\\CoffeeShop.csproj",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\CoffeeShop.csproj",
+              "RelativeToolTip": "CoffeeShop\\CoffeeShop.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-18T17:11:55.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Views\\OrderDetail\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CoffeeShop\\Views\\OrderDetail\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Views\\OrderDetail\\Edit.cshtml",
+              "RelativeToolTip": "CoffeeShop\\Views\\OrderDetail\\Edit.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-19T09:19:31.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OrderDetailController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Controllers\\OrderDetailController.cs",
+              "RelativeDocumentMoniker": "CoffeeShop\\Controllers\\OrderDetailController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Controllers\\OrderDetailController.cs",
+              "RelativeToolTip": "CoffeeShop\\Controllers\\OrderDetailController.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAADwv5kAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T09:21:24.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "CoffeeShop\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "CoffeeShop\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T15:46:48.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "CoffeeShop\\Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "CoffeeShop\\Controllers\\BaseController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAiwC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T18:10:50.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "CoffeeShop\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Models\\Customer.cs",
+              "RelativeToolTip": "CoffeeShop\\Models\\Customer.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T08:16:27.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Views\\Order\\Details.cshtml",
+              "RelativeDocumentMoniker": "CoffeeShop\\Views\\Order\\Details.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Views\\Order\\Details.cshtml",
+              "RelativeToolTip": "CoffeeShop\\Views\\Order\\Details.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAUwCMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-19T09:10:51.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Views\\Order\\Create.cshtml",
+              "RelativeDocumentMoniker": "CoffeeShop\\Views\\Order\\Create.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Views\\Order\\Create.cshtml",
+              "RelativeToolTip": "CoffeeShop\\Views\\Order\\Create.cshtml",
+              "ViewState": "AgIAACkAAAAAAAAAAAAUwCwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-19T08:59:06.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CoffeeDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Data\\CoffeeDbContext.cs",
+              "RelativeDocumentMoniker": "CoffeeShop\\Data\\CoffeeDbContext.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Data\\CoffeeDbContext.cs",
+              "RelativeToolTip": "CoffeeShop\\Data\\CoffeeDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T17:14:02.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\appsettings.json",
+              "RelativeDocumentMoniker": "CoffeeShop\\appsettings.json",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\appsettings.json",
+              "RelativeToolTip": "CoffeeShop\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-18T17:17:59.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Models\\Menu.cs",
+              "RelativeDocumentMoniker": "CoffeeShop\\Models\\Menu.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Models\\Menu.cs",
+              "RelativeToolTip": "CoffeeShop\\Models\\Menu.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T19:00:58.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Program.cs",
+              "RelativeDocumentMoniker": "CoffeeShop\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Program.cs",
+              "RelativeToolTip": "CoffeeShop\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAwCAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-18T18:01:39.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "MyOrders.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Views\\Order\\MyOrders.cshtml",
+              "RelativeDocumentMoniker": "CoffeeShop\\Views\\Order\\MyOrders.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Views\\Order\\MyOrders.cshtml",
+              "RelativeToolTip": "CoffeeShop\\Views\\Order\\MyOrders.cshtml",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAwwGQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-19T18:08:03.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "CoffeeShop\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "CoffeeShop\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAwwJAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-19T09:41:58.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "CoffeeShop\\Views\\Category\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "CoffeeShop\\Views\\Category\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-11T15:49:27.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "CoffeeShop\\Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Models\\CartItem.cs",
+              "RelativeToolTip": "CoffeeShop\\Models\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T09:38:28.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "CoffeeShop\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "CoffeeShop\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAUwEQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-19T09:59:14.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "CoffeeShop\\Models\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "CoffeeShop\\Models\\OrderDetail.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwBUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T09:16:18.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Views\\Home\\Detail.cshtml",
+              "RelativeDocumentMoniker": "CoffeeShop\\Views\\Home\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Views\\Home\\Detail.cshtml",
+              "RelativeToolTip": "CoffeeShop\\Views\\Home\\Detail.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-11T15:19:32.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "SessionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Extensions\\SessionExtensions.cs",
+              "RelativeDocumentMoniker": "CoffeeShop\\Extensions\\SessionExtensions.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Extensions\\SessionExtensions.cs",
+              "RelativeToolTip": "CoffeeShop\\Extensions\\SessionExtensions.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA0wBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-19T09:39:20.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Views\\Order\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CoffeeShop\\Views\\Order\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Views\\Order\\Delete.cshtml",
+              "RelativeToolTip": "CoffeeShop\\Views\\Order\\Delete.cshtml",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-19T08:59:42.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Invoice.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Views\\Order\\Invoice.cshtml",
+              "RelativeDocumentMoniker": "CoffeeShop\\Views\\Order\\Invoice.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Views\\Order\\Invoice.cshtml",
+              "RelativeToolTip": "CoffeeShop\\Views\\Order\\Invoice.cshtml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAFMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-19T09:26:15.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Views\\OrderDetail\\Details.cshtml",
+              "RelativeDocumentMoniker": "CoffeeShop\\Views\\OrderDetail\\Details.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Views\\OrderDetail\\Details.cshtml",
+              "RelativeToolTip": "CoffeeShop\\Views\\OrderDetail\\Details.cshtml",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAADkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-19T09:20:04.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Views\\OrderDetail\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CoffeeShop\\Views\\OrderDetail\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Views\\OrderDetail\\Delete.cshtml",
+              "RelativeToolTip": "CoffeeShop\\Views\\OrderDetail\\Delete.cshtml",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAADwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-19T09:19:46.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Views\\OrderDetail\\Create.cshtml",
+              "RelativeDocumentMoniker": "CoffeeShop\\Views\\OrderDetail\\Create.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Views\\OrderDetail\\Create.cshtml",
+              "RelativeToolTip": "CoffeeShop\\Views\\OrderDetail\\Create.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-19T09:19:15.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Views\\Order\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CoffeeShop\\Views\\Order\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Views\\Order\\Edit.cshtml",
+              "RelativeToolTip": "CoffeeShop\\Views\\Order\\Edit.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAwCsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-19T08:59:24.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Views\\Customer\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CoffeeShop\\Views\\Customer\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Views\\Customer\\Edit.cshtml",
+              "RelativeToolTip": "CoffeeShop\\Views\\Customer\\Edit.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAjwB4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-19T08:19:04.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Views\\Customer\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CoffeeShop\\Views\\Customer\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Views\\Customer\\Delete.cshtml",
+              "RelativeToolTip": "CoffeeShop\\Views\\Customer\\Delete.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAjwCIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-19T08:19:22.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Views\\Employee\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CoffeeShop\\Views\\Employee\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Views\\Employee\\Delete.cshtml",
+              "RelativeToolTip": "CoffeeShop\\Views\\Employee\\Delete.cshtml",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-19T08:13:13.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Views\\Employee\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CoffeeShop\\Views\\Employee\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Views\\Employee\\Edit.cshtml",
+              "RelativeToolTip": "CoffeeShop\\Views\\Employee\\Edit.cshtml",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAAEIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-19T08:12:53.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Views\\Menu\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CoffeeShop\\Views\\Menu\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Views\\Menu\\Delete.cshtml",
+              "RelativeToolTip": "CoffeeShop\\Views\\Menu\\Delete.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-18T20:35:01.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Views\\Menu\\Create.cshtml",
+              "RelativeDocumentMoniker": "CoffeeShop\\Views\\Menu\\Create.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Views\\Menu\\Create.cshtml",
+              "RelativeToolTip": "CoffeeShop\\Views\\Menu\\Create.cshtml",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAADsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-18T19:58:30.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "CoffeeShop\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\CoffeeShop\\CoffeeShop\\Models\\Category.cs",
+              "RelativeToolTip": "CoffeeShop\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T15:41:23.288Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

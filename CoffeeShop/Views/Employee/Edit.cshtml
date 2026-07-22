@@ -1,0 +1,67 @@
+﻿@model CoffeeShop.Models.Employee
+
+@{
+    ViewData["Title"] = "Edit Employee";
+}
+
+<div class="container mt-4">
+
+    <h2>Edit Employee</h2>
+
+    <form asp-action="Edit">
+
+        <input asp-for="EmployeeID"
+               type="hidden" />
+
+        <div class="mb-3">
+
+            <label class="form-label">Full Name</label>
+
+            <input asp-for="FullName"
+                   class="form-control" />
+
+        </div>
+
+        <div class="mb-3">
+
+            <label class="form-label">Phone</label>
+
+            <input asp-for="Phone"
+                   class="form-control" />
+
+        </div>
+
+        <div class="mb-3">
+
+            <label class="form-label">Position</label>
+
+            <input asp-for="Position"
+                   class="form-control" />
+
+        </div>
+
+        <div class="mb-3">
+
+            <label class="form-label">Salary</label>
+
+            <input asp-for="Salary"
+                   class="form-control" />
+
+        </div>
+
+        <button class="btn btn-warning">
+
+            Update
+
+        </button>
+
+        <a asp-action="Index"
+           class="btn btn-secondary">
+
+            Back
+
+        </a>
+
+    </form>
+
+</div>
